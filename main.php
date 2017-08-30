@@ -47,7 +47,7 @@ Podaj kolejną liczbę: <input type="text" name="number"><br>
 ?>
     
 <form action="main.php" method="post">
-Twoja liczba to: <input type="text" name="number"><br>
+Odgadnij liczbę: <input type="text" name="number"><br>
 <input type="submit">
 </form>
     
